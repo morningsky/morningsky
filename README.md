@@ -2,8 +2,8 @@
 <br />
 
 - 🔭 I’m currently an Machine Learning Engineer with [ByteDance](https://www.bytedance.com/) working on recommendation projects;
-- 🌱 I’m currently develop [Torch-RecHub](https://github.com/datawhalechina/torch-rechub), welcome to join us; 
-- 👯 I'm a Community Team Member 🙍🏽‍♂️ [@Datawhale](https://github.com/datawhalechina)
+- 🌱 I’m currently developing on [Torch-RecHub](https://github.com/datawhalechina/torch-rechub), welcome to join us; 
+- 👯 I'm a Community Team Member 🙍🏽‍♂️ [@Datawhale](https://github.com/datawhalechina);
 - 💼 I'm currently pursuing a Master's degree in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn/);
 - 🤔 My interests are with Machine Learning, History, Economics, etc..;
 - 💬 Ask me about anything, I am happy to help;
